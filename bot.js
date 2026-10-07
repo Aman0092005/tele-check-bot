@@ -34,7 +34,7 @@ async function checkMessages() {
                                 [
                                     {
                                         text: "🔗 Open Link",
-                                        url: "https://example.com"
+                                        url: "https://t.me/+Vkvo4tRmCGQ0NDY1"
                                     }
                                 ]
                             ]
